@@ -3,12 +3,16 @@
   "version": "0.2.1",
   "description": "Yeoman generator for creating a CSS",
   "keywords": ["yeoman-generator", "css"],
-  "repository": "xonium/generator-design-css",
+  "repository": "https://github.com/xonium/generator-design-css.git",
   "main": "app/index.js",
   "files": [
     "generators"
   ],
-  "author": "Johan Öbrink",
+  "author": {
+    "name": "Johan Öbrink",
+    "email": "johan.erik.obrink@gmail.com",
+    "url": "https://github.com/xonium"
+  },
   "license": "ISC",
   "dependencies": {
     "mkdirp": "^0.5.1",
