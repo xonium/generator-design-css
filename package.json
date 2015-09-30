@@ -1,12 +1,10 @@
 {
   "name": "generator-design-css",
-  "version": "0.1.1",
-  "description": "a yeoman generator to quickly generate a css",
-  "keywords": "yeoman-generator",
+  "version": "0.2.0",
+  "description": "Yeoman generator for creating a CSS",
+  "keywords": ["yeoman-generator", "css"],
+  "repository": "xonium/generator-design-css",
   "main": "app/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "files": [
     "app"
   ],
